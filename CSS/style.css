@@ -1,0 +1,91 @@
+body{
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+/*nav*/
+
+
+
+
+/*banner section*/
+.nav-color{
+    background-color: #333333;
+    position: sticky;
+    top: 0;
+    z-index: 2;
+}
+
+.banner-container{
+    background-color:#00BDBC;
+}
+.btn{
+
+    color: whitesmoke;
+	text-decoration: none;
+	padding: 5px 10px;
+	border: 1px solid blueviolet;
+	border-radius: 10px;
+	font-weight: bold;
+    
+}
+.btn:hover{
+
+    color: black;
+    background-color: whitesmoke;
+	
+    
+}
+
+.bord-color{
+    background-color:#474D5D;
+}
+
+/*about*/
+.about-container{
+    background-color:whitesmoke;
+
+}
+
+.about-color{
+    color: #FB857F;
+}
+
+/*education*/
+
+.edu-contain{
+    background-color: rgba(35, 109, 93, 0.623);
+}
+.edu-color{
+    color: cornsilk;
+}
+
+.edu-circle{
+    background-color: crimson;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+
+/*project-section*/
+.pro-container{
+    background-color: dodgerblue;
+}
+
+.footer{
+    background-color: black;
+}
+
+.circle-edu{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    display: inline-block;
+    background-color: white;
+    font-size: 40px;
+    text-align: center;
+    color:  #2DB1E1;
+}
+
+.circle-edu:hover{
+    background-color: #525970;
+ }
